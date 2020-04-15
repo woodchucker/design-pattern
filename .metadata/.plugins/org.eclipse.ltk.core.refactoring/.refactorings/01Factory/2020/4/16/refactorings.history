@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;UFOEnemyShip.java&apos; to &apos;01AbstractFactory/src/entities.com&apos;&#x0D;&#x0A;- Original project: &apos;01AbstractFactory&apos;&#x0D;&#x0A;- Destination element: &apos;01AbstractFactory/src/entities.com&apos;&#x0D;&#x0A;- Original element: &apos;entities.com.UFOEnemyShip.java&apos;" description="Copy compilation unit" destination="/src&lt;entities.com" element1="/src&lt;entities.com{UFOEnemyShip.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1586820068878" units="1" version="1.0"/>
+</session>

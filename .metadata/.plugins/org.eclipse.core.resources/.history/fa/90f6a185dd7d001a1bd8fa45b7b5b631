@@ -1,0 +1,10 @@
+package entities.com;
+
+public class RocketEnemyShip extends EnemyShip{
+
+	public void UFOEnemyShip() {
+		setName("UFO Enemy Ship");
+		setAmtDamage(20.0);
+	}
+	
+}

@@ -1,0 +1,11 @@
+package entities;
+
+import java.text.DecimalFormatSymbols;
+
+public class Configuration {
+	setDecimalFormat(){
+    DecimalFormatSymbols dfs = df.getDecimalFormatSymbols();
+    dfs.setDecimalSeparator('.');
+    df.setDecimalFormatSymbols(dfs);
+	}
+}
